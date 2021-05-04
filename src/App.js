@@ -18,9 +18,10 @@ function App() {
       <h2>
         Deployed with{' '}
         <a
-          href="https://b.link/seo-company-in-chandigarh"
+          href="https://b.link/seo-company-in-chandigarh">
+          Best SEO Company In chandigarh
         </a>
-        Best SEO Company In chandigarh
+        
       </h2>
       <p>
         <a
