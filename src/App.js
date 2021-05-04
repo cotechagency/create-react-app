@@ -18,13 +18,9 @@ function App() {
       <h2>
         Deployed with{' '}
         <a
-          href="https://vercel.com/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Vercel
+          href="https://b.link/seo-company-in-chandigarh"
         </a>
-        !
+        Best SEO Company In chandigarh
       </h2>
       <p>
         <a
